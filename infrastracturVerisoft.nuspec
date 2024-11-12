@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>infrastracturVerisoft</id>
+    <version>1.0.0</version>
+    <authors>ayala</authors>
+    <description>Your DLL package description.</description>
+    <dependencies>
+        <dependencies>
+      <group targetFramework="net8.0-windows" />
+    </dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\infrastracturVerisoft.dll" target="lib\net461\infrastracturVerisoft.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\bin\Debug\net8.0\infrastracturVerisoft.deps.json
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\bin\Debug\net8.0\infrastracturVerisoft.dll
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\bin\Debug\net8.0\infrastracturVerisoft.pdb
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.AssemblyInfoInputs.cache
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.AssemblyInfo.cs
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.csproj.CoreCompileInputs.cache
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.dll
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\refint\infrastracturVerisoft.dll
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.pdb
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\ref\infrastracturVerisoft.dll
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\bin\Debug\net8.0\System.Activities.dll
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastracturVerisoft.csproj.AssemblyReference.cache
+C:\Users\ayala\source\repos\infrastracturVerisoft\infrastracturVerisoft\obj\Debug\net8.0\infrastr.4FF84088.Up2Date
